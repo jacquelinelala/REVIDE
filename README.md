@@ -1,6 +1,5 @@
 # REVIDE
 An official release of REVIDE dataset
-Accepted by CVPR2021
 
 **A Benchmark for Video Dehazing. Accepted by CVPR 2021**
 
